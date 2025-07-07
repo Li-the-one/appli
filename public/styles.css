@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+}
+#board-list {
+  list-style: none;
+  padding: 0;
+}
+#board-list li {
+  margin: 0.5rem 0;
+}
